@@ -1,0 +1,30 @@
+{
+  "title": "SAMPLE SYLLABUS",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "100 Points",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "90 - 100",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "80 - 89",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "70 - 79",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "60 - 69",
+      "page": 6
+    }
+  ]
+}
